@@ -9,4 +9,22 @@ Species ID utilized Rubias, which was altered to allow for species specific call
 
 ## Methods:
 
-1. Run [Nate Campbell's GT-seq genotyper](https://github.com/GTseq/GTseq-Pipeline) to produce a .csv file with genotypes and summary statistics for all samples. I just ran GTseq_Genotyper_v3.pl and GTseq_GenoCompile_v3.pl.
+### 1. Genotyping
+Run [Nate Campbell's GT-seq genotyper](https://github.com/GTseq/GTseq-Pipeline) to produce a .csv file with genotypes and summary statistics for all samples. I just ran GTseq_Genotyper_v3.pl and GTseq_GenoCompile_v3.pl.
+
+### 2. Species Identification using Rubias
+Run Rubias with a reference panel of known individuals to identify samples as either Vermilion or Sunset Rockfish. This script needs 4 inputs:
+1. a common loci RDS <- common_loci_path
+2. a reference rockfish df for input to Rubias <- rf_reference_df_sans_SVH_path
+3. a reference rockfish genind for PCA plots <- rf_GTseq_panel_genind_path
+4. a excel file (not csv) with the 'unknown' samples <- rf_GTs_path
+5. (optional) a non-reference rockfish genind to visualize flagged species with other rockfish species <- otro_rf_spp_sample_ID_path
+
+### 3. Biological Data merging
+
+
+### 4. Statistics and Graphics
+Code for all analyses and figures for the manuscript are included in [this folder](). Major figure results and included below.
+
+## Major Results:
+
