@@ -10,7 +10,7 @@ Species ID utilized Rubias, which was altered to allow for species specific call
 
 ## Methods:
 
-### 1. [Genotyping](https://github.com/GTseq/GTseq-Pipeline)
+### 1. Genotyping
 Run [Nate Campbell's GT-seq genotyper](https://github.com/GTseq/GTseq-Pipeline) to produce a .csv file with genotypes and summary statistics for all samples. I just ran GTseq_Genotyper_v3.pl and GTseq_GenoCompile_v3.pl.
 
 ### 2. Species Identification using Rubias
@@ -24,7 +24,7 @@ This script needs 4 inputs:
 5. (optional) a non-reference rockfish genind to visualize flagged species with other rockfish species <- otro_rf_spp_sample_ID_path
 
 ### 3. Biological Data merging
-
+Merged biological data collected in the field with genetic species ID. [Script here]()
 
 ### 4. Statistics and Graphics
 Code for all analyses and figures for the manuscript are included in [this folder](https://github.com/anita-wray/vermilion_sunset_gtseq/tree/main/Figures). Major figure results and included below.
