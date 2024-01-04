@@ -28,7 +28,7 @@ This script needs 4 inputs:
 
 
 ### 4. Statistics and Graphics
-Code for all analyses and figures for the manuscript are included in [this folder](). Major figure results and included below.
+Code for all analyses and figures for the manuscript are included in [this folder](https://github.com/anita-wray/vermilion_sunset_gtseq/tree/main/Figures). Major figure results and included below.
 
 ## Major Results:
 
