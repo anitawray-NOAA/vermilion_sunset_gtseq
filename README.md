@@ -1,5 +1,4 @@
-# NWFSC Vermilion Sunset Rockfish Project
-![image](https://github.com/anita-wray/vermilion_sunset_gtseq/assets/82060951/92b658c9-0002-4587-b02d-a86940768350)
+# NWFSC Vermilion Sunset Rockfish Project <img src="https://github.com/anita-wray/vermilion_sunset_gtseq/assets/82060951/92b658c9-0002-4587-b02d-a86940768350" width="300" height="400" align="right">
 
 
 ## Objective:
@@ -31,4 +30,5 @@ This script needs 4 inputs:
 Code for all analyses and figures for the manuscript are included in [this folder](https://github.com/anita-wray/vermilion_sunset_gtseq/tree/main/Figures). Major figure results and included below.
 
 ## Major Results:
+
 
