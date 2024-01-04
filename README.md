@@ -1,4 +1,4 @@
-# NWFSC Vermilion Sunset Rockfish Project <img src="https://github.com/anita-wray/vermilion_sunset_gtseq/assets/82060951/92b658c9-0002-4587-b02d-a86940768350" width="300" height="400" align="right">
+# NWFSC Vermilion Sunset Rockfish Project  <img src="https://github.com/anita-wray/vermilion_sunset_gtseq/assets/82060951/92b658c9-0002-4587-b02d-a86940768350" width="300" height="400" align="right">
 
 
 ## Objective:
@@ -30,5 +30,13 @@ This script needs 4 inputs:
 Code for all analyses and figures for the manuscript are included in [this folder](https://github.com/anita-wray/vermilion_sunset_gtseq/tree/main/Figures). Major figure results and included below.
 
 ## Major Results:
+- Vermilion rockfish were identified throughout the sampling region, from Hood Canal, WA to the US/Mexico border. In contrast, no sunset rockfish were encountered north of Point Arena, CA (38.91° N).
+- Vermilion rockfish were caught at significantly shallower depths than sunset, although there was substantial overlap between the two species.
+- Both vermilion and sunset rockfish demonstrated sexually dimorphic length-weight relationships, with females of both species generally heavier at longer lengths than males.
+- Sunset rockfish of both sexes tended to be heavier at longer lengths than their vermilion rockfish counterparts.
+- Both male and female sunset rockfish grew faster and reached substantially larger values of L∞ than their vermilion counterparts.
+- Among all individuals captured, the mean length of sunset rockfish was significantly longer than vermilion rockfish.
+- The weight and length of both species increased with depth, suggesting both species undergo ontogenetic migration into deeper waters.
+
 
 
