@@ -1,5 +1,6 @@
 # NWFSC Vermilion Sunset Rockfish Project
-![Uploading image.png…]()
+![image](https://github.com/anita-wray/vermilion_sunset_gtseq/assets/82060951/92b658c9-0002-4587-b02d-a86940768350)
+
 
 ## Objective:
 
