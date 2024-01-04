@@ -44,3 +44,9 @@ Code for all analyses and figures for the manuscript are included in [this folde
 <p align="center">
   <img src="https://github.com/anita-wray/vermilion_sunset_gtseq/assets/82060951/189bc373-1822-4de6-ad9a-275199f877da" width="700" height="500" align="center">
 </p>
+
+Figure 1 (top left) - Map Showing The Geographic Distribution Of Vermilion (Left, Purple) And Sunset (Right, Orange) Rockfish Samples Used In This Study.
+
+Figure 2 (top right) - Length Distribution Of All Vermilion And Sunset Rockfish Samples. A two-tailed t-test revealed a significant difference between the two species (p ≈ 0, t = -96.107).
+
+Figure 3 (bottom) - Von Bertananffy Growth Curves For Male And Female Vermilion Rockfish (A), Male And Female Sunset Rockfish (B), Male Vermilion Rockfish And Sunset Rockfish (C), Female Vermilion Rockfish And Sunset Rockfish (D), And All Vermilion And Sunset Rockfish (E).
