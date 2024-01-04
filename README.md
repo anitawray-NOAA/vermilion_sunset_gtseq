@@ -38,5 +38,9 @@ Code for all analyses and figures for the manuscript are included in [this folde
 - Among all individuals captured, the mean length of sunset rockfish was significantly longer than vermilion rockfish.
 - The weight and length of both species increased with depth, suggesting both species undergo ontogenetic migration into deeper waters.
 
-
-
+### A snippet of the figures produced for the manuscript
+<img src="https://github.com/anita-wray/vermilion_sunset_gtseq/assets/82060951/641740c1-560a-42e1-b04e-dcbb3f699bbc" width="500" height="400" align="left">
+<img src="https://github.com/anita-wray/vermilion_sunset_gtseq/assets/82060951/a7e843c0-a90a-4fd2-814e-44308254f665" width="400" height="400" align="right">
+<p align="center">
+  <img src="https://github.com/anita-wray/vermilion_sunset_gtseq/assets/82060951/189bc373-1822-4de6-ad9a-275199f877da" width="700" height="500" align="center">
+</p>
