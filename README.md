@@ -27,7 +27,7 @@ This script needs 4 inputs:
 Merged biological data collected in the field with genetic species ID. [Script here]()
 
 ### 4. Statistics and Graphics
-Code for all analyses and figures for the manuscript are included in [this folder](https://github.com/anita-wray/vermilion_sunset_gtseq/tree/main/Figures). Major figure results and included below.
+Code for all analyses and figures for the manuscript are included in [this folder](https://github.com/anita-wray/vermilion_sunset_gtseq/tree/main/FIGURES_STATISTICS). Major figure results and included below.
 
 ## Major Results:
 - Vermilion rockfish were identified throughout the sampling region, from Hood Canal, WA to the US/Mexico border. In contrast, no sunset rockfish were encountered north of Point Arena, CA (38.91° N).
