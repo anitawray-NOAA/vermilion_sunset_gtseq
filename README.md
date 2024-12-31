@@ -50,3 +50,15 @@ Code for all analyses and figures for the manuscript are included in [this folde
 **Figure 2 (top right) - Length Distribution Of All Vermilion And Sunset Rockfish Samples.** A two-tailed t-test revealed a significant difference between the two species (p ≈ 0, t = -96.107).
 
 **Figure 3 (bottom) - Von Bertananffy Growth Curves For Male And Female Vermilion Rockfish (A), Male And Female Sunset Rockfish (B), Male Vermilion Rockfish And Sunset Rockfish (C), Female Vermilion Rockfish And Sunset Rockfish (D), And All Vermilion And Sunset Rockfish (E).**
+
+
+## Disclaimer: 
+This repository is a scientific product and is not official communication of the National Oceanic and
+Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code
+is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the
+Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub
+project will be governed by all applicable Federal law. Any reference to specific commercial products,
+processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply
+their endorsement, recommendation or favoring by the Department of Commerce. The Department of
+Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply
+endorsement of any commercial product or activity by DOC or the United States Government.
