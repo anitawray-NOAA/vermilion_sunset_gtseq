@@ -44,13 +44,9 @@ Code for all analyses and figures for the manuscript are included in [this folde
 <img src="https://github.com/anita-wray/vermilion_sunset_gtseq/assets/82060951/a7e843c0-a90a-4fd2-814e-44308254f665" width="300" height="300" align="right">
 
 
+  **Figure 1 (top left) - Map Showing The Geographic Distribution Of Vermilion (Left, Purple) And Sunset (Right, Orange) Rockfish Samples Used In This Study.**
 
-
-
-
-**Figure 1 (top left) - Map Showing The Geographic Distribution Of Vermilion (Left, Purple) And Sunset (Right, Orange) Rockfish Samples Used In This Study.**
-
-**Figure 2 (top right) - Length Distribution Of All Vermilion And Sunset Rockfish Samples.** A two-tailed t-test revealed a significant difference between the two species (p ≈ 0, t = -96.107).
+  **Figure 2 (top right) - Length Distribution Of All Vermilion And Sunset Rockfish Samples.** A two-tailed t-test revealed a significant difference between the two species (p ≈ 0, t = -96.107).
 
 
 ## Disclaimer: 
