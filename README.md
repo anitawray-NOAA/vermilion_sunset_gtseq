@@ -1,4 +1,4 @@
-# NWFSC Vermilion Sunset Rockfish Project  <img src="https://github.com/anita-wray/vermilion_sunset_gtseq/assets/82060951/92b658c9-0002-4587-b02d-a86940768350" width="300" height="400" align="right">
+# NWFSC Vermilion Sunset Rockfish Project
 
 Primary Contact: Anita Wray, anita.wray@noaa.gov
 
